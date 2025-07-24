@@ -1,3 +1,5 @@
+package fundamentos
+
 fun main() {
     //tipos de retorno
     // 1: Tipo "Unit" diz que a função não possui retorno, executando seu corpo e termina a execução

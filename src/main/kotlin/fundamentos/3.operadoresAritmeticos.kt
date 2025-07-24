@@ -1,3 +1,5 @@
+package fundamentos
+
 fun main() {
     val soma = 2+2
     val subtracao = 2-2

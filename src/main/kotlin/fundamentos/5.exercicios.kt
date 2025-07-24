@@ -1,3 +1,5 @@
+package fundamentos
+
 fun main() {
     // 1.
     //Escreva um programa que calcule a área de um retângulo de base 10 e lado 5.

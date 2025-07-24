@@ -1,3 +1,5 @@
+package fundamentos
+
 fun helloWorld(nome: String){
     println("Olá, $nome!")
 }

@@ -1,6 +1,7 @@
+package fundamentos
+
 import java.util.Locale
-import kotlin.div
-import kotlin.times
+
 //1
 //Escreva uma função que seja capaz de receber a quantidade de anos e transformar em meses, dias, horas, minutos e segundos.
 

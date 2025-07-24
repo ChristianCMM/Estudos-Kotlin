@@ -1,3 +1,5 @@
+package fundamentos
+
 fun main() {
     val str = "Programação Kotlin!"
 

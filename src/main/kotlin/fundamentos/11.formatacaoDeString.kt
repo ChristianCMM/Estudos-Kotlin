@@ -1,3 +1,5 @@
+package fundamentos
+
 import java.util.Locale
 
 fun main() {

@@ -1,3 +1,5 @@
+package fundamentos
+
 fun main() {
     var minhaString: String= "abc"
     println(minhaString)

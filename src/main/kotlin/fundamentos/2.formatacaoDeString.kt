@@ -1,3 +1,5 @@
+package fundamentos
+
 fun main() {
     val linguagem = "Kotlin"
     val caracteristica = "é show!"
