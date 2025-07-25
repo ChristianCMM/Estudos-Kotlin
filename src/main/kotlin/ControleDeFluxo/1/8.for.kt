@@ -1,6 +1,6 @@
 package ControleDeFluxo.`1`
 
-import java.text.ListFormat
+import kotlin.text.iterator
 
 fun main() {
 
@@ -18,7 +18,7 @@ fun main() {
         print(k)
     }
 
-    for (l in 20 downTo  0 step 2){
+    for (l in 20 downTo  0 step 2){ // decrescente, de 2 em 2
         print(l)
     }
 
