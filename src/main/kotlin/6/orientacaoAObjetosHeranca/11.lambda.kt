@@ -1,4 +1,4 @@
-package `6`.orientacaoAObjetosHerenca
+package `6`.orientacaoAObjetosHeranca
 
 fun interface Funcionario2{ // <-- SAM
     fun calculaBonus(str:String,id:Int): Float

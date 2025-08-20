@@ -1,4 +1,4 @@
-package `6`.orientacaoAObjetosHerenca
+package `6`.orientacaoAObjetosHeranca
 
 fun main() {
     val e1 = DataEndereco("rua 1", "cidade 1")

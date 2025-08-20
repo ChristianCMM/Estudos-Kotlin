@@ -1,4 +1,4 @@
-package `6`.orientacaoAObjetosHerenca.`5`.sealed
+package `6`.orientacaoAObjetosHeranca.`5`.sealed
 
 // "Sealed" fechada para herança fora do pacote
 sealed class Result {

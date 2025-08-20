@@ -1,4 +1,4 @@
-package `6`.orientacaoAObjetosHerenca
+package `6`.orientacaoAObjetosHeranca
 
 // diferença entre Interface e Classe Abstrata: interface não pode armazenar Estado(Ex: declarar variaveis)
 interface Selvagem {

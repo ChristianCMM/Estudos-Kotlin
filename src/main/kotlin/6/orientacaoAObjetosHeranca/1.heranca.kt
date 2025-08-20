@@ -1,4 +1,4 @@
-package `6`.orientacaoAObjetosHerenca
+package `6`.orientacaoAObjetosHeranca
 
 open class Eletronico(var marca:String, preco: Float){
     fun ligar(){}

@@ -1,4 +1,4 @@
-package `6`.orientacaoAObjetosHerenca
+package `6`.orientacaoAObjetosHeranca
 
 // também pode-se utilizar "Interface" ao invés de uma "abstract class"
 interface Funcionario{
